@@ -2,14 +2,22 @@
 title: "About"
 ---
 
-About this site
+---
+title: "Shashank Hosahalli Shivamurthy"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/shashankhs11
+---
 
-Hello
+Shashank is a graduate student in the Master of Data Science Program at UBC
+
+## Education
+
+University of British Columbia, Vancouver | Vancouver, BC
+Master of Data Science | Sept 2024 - Present
 
 
-Quarto create project <project name>
 
-Creates a quarto project
-
-
-## Testing Quarto Publish

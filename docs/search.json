@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\nHello\nQuarto create project  Creates a quarto project"
+    "text": "About this site\nHello\nQuarto create project\nCreates a quarto project"
+  },
+  {
+    "objectID": "about.html#testing-quarto-publish",
+    "href": "about.html#testing-quarto-publish",
+    "title": "About",
+    "section": "Testing Quarto Publish",
+    "text": "Testing Quarto Publish"
   },
   {
     "objectID": "index.html",
