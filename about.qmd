@@ -5,3 +5,7 @@ title: "About"
 About this site
 
 Hello
+
+
+Quarto create project <project name>
+Creates a quarto project 
