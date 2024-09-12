@@ -8,4 +8,8 @@ Hello
 
 
 Quarto create project <project name>
+
 Creates a quarto project
+
+
+## Testing Quarto Publish
