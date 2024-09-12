@@ -8,4 +8,4 @@ Hello
 
 
 Quarto create project <project name>
-Creates a quarto project 
+Creates a quarto project
